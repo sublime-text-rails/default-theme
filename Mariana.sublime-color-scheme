@@ -363,6 +363,9 @@
             "scope": "source.ruby.rails.embedded.html",
             "foreground": "var(white3)"
         },
-
+        {
+            "scope": "string.quoted.single.ruby | string.quoted.double.ruby",
+            "foreground": "var(green)"
+        },
     ]
 }
